@@ -42,7 +42,7 @@ h2 {
 .div#column a{
 	border: 5px solid #778899;
 }
-.div#column:hover {
+#column:hover {
 	border-color: #707070;
 	cursor: pointer;
 }
