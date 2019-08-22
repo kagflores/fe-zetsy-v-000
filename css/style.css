@@ -37,7 +37,7 @@ h2 {
 	border: 5px solid #778899;
 }
 .footer {
-	float: right;
+	text-align: right;
 }
 #column img {
 	border: 2px solid #778899;
