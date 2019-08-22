@@ -39,7 +39,7 @@ h2 {
 .footer {
 	float: right;
 }
-.div#column a{
+#column img {
 	border: 5px solid #778899;
 }
 #column img:hover {
