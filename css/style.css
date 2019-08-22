@@ -40,7 +40,7 @@ h2 {
 	float: right;
 }
 #column img {
-	border: 5px solid #778899;
+	border: 2px solid #778899;
 }
 #column img:hover {
 	border-color: #707070;
