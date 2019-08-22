@@ -33,6 +33,9 @@ h2 {
 	margin-right: auto;
 	width: 50%;
 }
+#featured img {
+	border-width: 5px;
+}
 .footer {
 	float: right;
 }
