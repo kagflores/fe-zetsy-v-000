@@ -33,6 +33,7 @@ h2 {
 	margin-right: auto;
 	width: 50%;
 	border: 15px;
+	border-color: black;
 }
 .footer {
 	float: right;
