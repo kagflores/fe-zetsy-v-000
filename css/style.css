@@ -36,3 +36,10 @@ h2 {
 .footer {
 	float: right;
 }
+.div#column {
+	transition: background-color 2s;
+}
+.div#column:hover {
+	border-color: #707070;
+	cursor: pointer;
+}
