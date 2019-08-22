@@ -38,7 +38,7 @@ h2 {
 .footer {
 	float: right;
 }
-.div#column {
+#column {
 	transition: background-color 2s;
 	border: 5px;
 }
